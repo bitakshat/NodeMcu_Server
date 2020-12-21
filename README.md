@@ -5,4 +5,4 @@ Web Server code for Arduino/NodeMCU(esp8266) boards
 Turn any switch of your home on/off via Internet
 
 ### collaborator
-[https://github.com/pandevim][Aniruddha Pandey]
+(https://github.com/pandevim)[Aniruddha Pandey]
